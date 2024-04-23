@@ -21,7 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        Şu an branchteyim #1
+        Şu an branchteyim #2
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
