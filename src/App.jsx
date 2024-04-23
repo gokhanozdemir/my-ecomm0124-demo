@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         Şu an branchteyim #2
+        Issue 1 finito
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
