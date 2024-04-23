@@ -21,7 +21,7 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        What does this 🧿 emoji mean?
+        Dev üzerinden mi branch 🧿 emoji mean?
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
